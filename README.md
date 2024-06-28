@@ -2,7 +2,7 @@
 
 Oberon is a complete software environment for personal computers. It includes both the Oberon operating system and the Oberon programming language.
 
-This version of Oberon, named Oberon Pi, emulates the Oberon system on a Raspberry Pi 400, using the Raspberry Pi OS as the host operating system.
+This version of Oberon, named *Oberon Pi*, emulates the Oberon system on a Raspberry Pi 400, using the Raspberry Pi OS as the host operating system.
 
 Oberon Pi runs as an application in the Raspberry Pi OS. When you execute the Oberon Pi command, a window opens on the Pi OS desktop. This window is the Oberon *display*, and it works like a separate computer running the Oberon system, with its own windows, command menus, and file system.
 
